@@ -1,0 +1,24 @@
+{
+  "name": "storage-tool",
+  "version": "1.0.0",
+  "description": "Tool for simple work with localStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "bugs": {
+    "url": "https://github.com/raut-andrey/storage-tool/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raut-andrey/storage-tool.git"
+  },
+  "homepage": "https://github.com/raut-andrey/storage-tool",
+  "keywords": [
+    "storage",
+    "localStorage"
+  ],
+  "author": "andrey-raut",
+  "license": "ISC",
+  "readmeFilename": "README.md"
+}
